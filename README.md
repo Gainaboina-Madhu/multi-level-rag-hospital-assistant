@@ -301,22 +301,21 @@ Add screenshots here.
 
 Example
 
-```
-screenshots/home.png
+# screenshots/home.png
 
 <img width="1311" height="802" alt="image" src="https://github.com/user-attachments/assets/0e963b1b-495c-4db0-9e02-bcc2cab5ba41" />
 
-screenshots/question.png
+# screenshots/question.png
 
 <img width="1252" height="742" alt="image" src="https://github.com/user-attachments/assets/13a6d6f8-5d9d-4c78-bcf5-59fa5e1298c2" />
 
 
-screenshots/answer.png
+# screenshots/answer.png
 
 <img width="1232" height="900" alt="image" src="https://github.com/user-attachments/assets/77d73be3-2d95-49a5-ad2c-1114a0938198" />
 
 
-```
+
 
 ---
 
