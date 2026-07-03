@@ -339,3 +339,19 @@ http://127.0.0.1:5000
 ```
 
 You can now select a department, enter a question, and receive an AI-generated response based on the department's knowledge base.
+
+# 👨‍💻 Author
+
+Name: Gainaboina Madhu
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# ⭐ Show Your Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
